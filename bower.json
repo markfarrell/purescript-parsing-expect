@@ -1,5 +1,11 @@
 {
   "name": "purescript-parsing-expect",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {                                                           
+    "type": "git",                                                          
+    "url": "https://github.com/markfarrell/purescript-parsing-expect.git"   
+  },
   "ignore": [
     "**/.*",
     "node_modules",
